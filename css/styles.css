@@ -3,7 +3,7 @@
   font-style: italic;
 }
  .highlight {
-   border-width: thick;
-   border-color: red;
+   padding: 10px;
+   border: 20px solid red;
    background-color: yellow;
  }

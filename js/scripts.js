@@ -1,6 +1,11 @@
 $(document).ready(function() {
-  $("p").click(function() {
-    $("p").removeClass();
-    $("p").addClass("highlight")
+  $("p#first").click(function() {
+    $("p#first").removeClass();
+    $("p#first").addClass("highlight");
+  });
+  
+  $("p#second").click(function() {
+    $("p#second").removeClass();
+    $("p#second").addClass("highlight");
   });
 });
