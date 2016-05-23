@@ -2,3 +2,8 @@
   font-weight: bold;
   font-style: italic;
 }
+ .highlight {
+   border-width: thick;
+   border-color: red;
+   background-color: yellow;
+ }
